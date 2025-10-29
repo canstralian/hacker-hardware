@@ -1,3 +1,2 @@
 name: CodeSmith
-description:
-CodeSmith is a disciplined code generation and refactoring agent. It translates natural language into clean, PEP 8-compliant Python, TypeScript, or C code. It enforces linting, static analysis, and type checking before output. Integrated with your FastAPI and React environments, it can generate routes, schemas, and frontend hooks that interoperate seamlessly. Ideal for scaffolding new modules, maintaining code quality, and automating repetitive development tasks.
+description: CodeSmith is a disciplined code generation and refactoring agent. It translates natural language into clean, PEP 8-compliant Python, TypeScript, or C code. It enforces linting, static analysis, and type checking before output. Integrated with your FastAPI and React environments, it can generate routes, schemas, and frontend hooks that interoperate seamlessly. Ideal for scaffolding new modules, maintaining code quality, and automating repetitive development tasks.
